@@ -1,0 +1,13 @@
+﻿---
+ID: "7b330210-358f-4876-9a13-4f9c622a94ea"
+Parent: "d5702864-1ec4-4e3d-8828-0b127664ae16"
+Template: "9c2d0fdf-4daf-4494-bde7-f857f1924825"
+Path: "/sitecore/content/frb/frb-new-york/Data/Navigation Filters"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "8a22eaac-bec7-47c0-8235-d8e3dbaaf9b6"

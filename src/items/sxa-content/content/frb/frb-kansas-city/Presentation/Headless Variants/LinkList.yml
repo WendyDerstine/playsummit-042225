@@ -1,0 +1,24 @@
+﻿---
+ID: "ed84d559-e9f0-45aa-bcc9-f1c7886077ff"
+Parent: "d2f0f450-f560-414a-aafb-b8fed3c2537d"
+Template: "49c111d0-6867-4798-a724-1f103166e6e9"
+Path: "/sitecore/content/frb/frb-kansas-city/Presentation/Headless Variants/LinkList"
+BranchID: "70519928-c595-4b2b-bb35-75022feecc4c"
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: Office/32x32/text_align_left.png
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: "5a6168b1-1688-4fa4-add1-932567de2c7f"
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{8A535969-7E57-4951-86D3-5E12DBFF31D3}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "e6710942-6581-4f5e-8f5a-a97c09f0ac2e"

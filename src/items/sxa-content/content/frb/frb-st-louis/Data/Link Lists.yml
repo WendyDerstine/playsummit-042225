@@ -1,0 +1,13 @@
+﻿---
+ID: "7d3b5877-15b6-43c8-86f2-cce9a2ace135"
+Parent: "c19462f6-492d-47c7-9c21-34648450f47d"
+Template: "c237d144-647a-4afe-aa7b-1570f3e3f139"
+Path: "/sitecore/content/frb/frb-st-louis/Data/Link Lists"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "47115118-7f39-41e6-aeb6-082c10432085"

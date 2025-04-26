@@ -1,0 +1,13 @@
+﻿---
+ID: "1497dd2d-2753-4f79-b204-3ce55ecbfdb5"
+Parent: "2227d5c7-192d-4d35-b4e6-3fb160878b3f"
+Template: "25a6b824-672f-4c15-9b98-0b231c80f81c"
+Path: "/sitecore/content/frb/frb-richmond/Data/Tags"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "c6c8f56f-4d75-4847-b057-200ce5ff69fe"

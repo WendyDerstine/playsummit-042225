@@ -1,0 +1,13 @@
+﻿---
+ID: "412ed26f-3ce4-4f65-84af-0d24eb52bdb2"
+Parent: "2c1ee6b6-8c0b-4b83-bc56-05f33c700350"
+Template: "25a6b824-672f-4c15-9b98-0b231c80f81c"
+Path: "/sitecore/content/frb/frb---san-francisco/Data/Tags"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "7cb6ded9-3798-4ad2-92e6-46cfd34a18ef"

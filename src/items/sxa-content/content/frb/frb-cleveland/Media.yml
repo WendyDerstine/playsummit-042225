@@ -1,0 +1,26 @@
+﻿---
+ID: "d18587c1-cad1-46f8-96ae-c7b6713c1ddc"
+Parent: "d24e9aa2-394c-45cf-b05d-5eb0d3ddd39c"
+Template: "e8e8c94f-4248-43c3-a79f-99fbb49d78e6"
+Path: "/sitecore/content/frb/frb-cleveland/Media"
+BranchID: "45cf9f42-b3ac-4412-aab9-f8441c7e448e"
+SharedFields:
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: "2c10f8a9-4eda-4aef-8167-7e40367043e7"
+- ID: "de8257d9-43aa-4eff-a2f4-2e9fbbd20e79"
+  Hint: AdditionalChildren
+  Value: |
+    {C619B297-A9BD-417A-8BBE-9E98E726E69B}
+    {FC2A3FCB-F445-4CB0-AAD7-5AFAC93673C0}
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{A7F39EA2-9018-4622-891D-CB65627E5AF2}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "05410add-3916-4bdf-ad07-a7d63123803c"

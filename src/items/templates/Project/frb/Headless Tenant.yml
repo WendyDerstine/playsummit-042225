@@ -1,0 +1,29 @@
+﻿---
+ID: "aa9a3bed-34be-4959-b1c0-82423de4a3f0"
+Parent: "57e75dcc-345f-44e8-b2e8-ca41caa67669"
+Template: "ab86861a-6030-46c5-b394-e8f99e8b87db"
+Path: /sitecore/templates/Project/frb/Headless Tenant
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: Office/32x32/window.png
+- ID: "12c33f3f-86c5-43a5-aeb4-5598cec45116"
+  Hint: __Base template
+  Value: |
+    {B91811F1-FA8B-47F8-B131-BD2C6D5EC805}
+    {DCB42A80-68C9-46F9-B036-BC44A27D96FE}
+    {3BC304DB-FE8F-4AA8-B95C-8C331E823F4C}
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: "62199046-9d93-41e5-b090-ff8d212f9232"
+- ID: "f7d48a55-2158-4f02-9356-756654404f73"
+  Hint: __Standard values
+  Value: "{66100C6B-E903-4BA6-BFE8-6131CDEF4513}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "3d758ca8-d85e-4f54-978f-a73861ef37f5"

@@ -1,0 +1,13 @@
+﻿---
+ID: "4204b1ac-2415-4b2a-ade4-501d91bc9b89"
+Parent: "2c1ee6b6-8c0b-4b83-bc56-05f33c700350"
+Template: "8fe7f8dc-cb5d-42c2-99f8-76608c243f10"
+Path: "/sitecore/content/frb/frb---san-francisco/Data/Promos"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "a4e84cc7-2529-4273-86ef-3982c64d655a"

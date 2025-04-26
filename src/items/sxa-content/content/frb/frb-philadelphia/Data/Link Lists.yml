@@ -1,0 +1,13 @@
+﻿---
+ID: "88e4583d-d5e2-415c-9c87-99e9620e5dac"
+Parent: "5b842f97-3622-40ce-bee0-6f4275596784"
+Template: "c237d144-647a-4afe-aa7b-1570f3e3f139"
+Path: "/sitecore/content/frb/frb-philadelphia/Data/Link Lists"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "bebfa614-78bd-4ea5-929c-80637c3bd836"

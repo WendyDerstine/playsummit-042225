@@ -1,0 +1,18 @@
+﻿---
+ID: "36886fa6-6137-4218-b111-2e2c79558134"
+Parent: "ae77ee9a-13c6-424b-9035-3a3e47fbcd94"
+Template: "52288e39-7830-4694-b62d-32a54c6ef7ba"
+Path: "/sitecore/content/frb/frb-richmond/Presentation/Placeholder Settings"
+BranchID: "464d8f5a-4cf5-449d-bbe8-9c2005af65e6"
+SharedFields:
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{C8F02ED4-0933-4D4D-B1C9-79A58E252BBF}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "5dcb6c14-6a47-4fc1-b637-f5e814dd6c84"

@@ -1,0 +1,13 @@
+﻿---
+ID: "597c6873-c762-4719-b4be-8c86f3dff324"
+Parent: "2227d5c7-192d-4d35-b4e6-3fb160878b3f"
+Template: "f7a45276-87f1-4ea5-bf25-e3c7cb7aa993"
+Path: "/sitecore/content/frb/frb-richmond/Data/Images"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "75eedc5f-18d4-4633-8da3-85af1934a896"

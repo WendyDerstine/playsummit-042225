@@ -1,0 +1,27 @@
+﻿---
+ID: "6fe64190-d914-4914-9423-e485c91392b4"
+Parent: "c0dc6cd5-980a-40e1-9a84-bc3aab04c4a1"
+Template: "c6dc7393-15bb-4cd7-b798-ab63e77ebac4"
+Path: "/sitecore/content/frb/frb---san-francisco/Presentation/Styles/Navigation"
+BranchID: "75653e9d-3c5c-45d4-823d-1bb04474400b"
+SharedFields:
+- ID: "62ca1c9e-71a4-465f-835e-55bda7bb270b"
+  Hint: Type
+  Value: droplist
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 297
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: "21bec67a-2d05-40eb-8ab4-6cef7c86e321"
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{46B862DA-A872-428E-A381-931E57DFAF12}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "7aa6c95b-9dc7-46bf-b763-66338324196b"

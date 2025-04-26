@@ -1,0 +1,18 @@
+﻿---
+ID: "4b8e13c6-6228-446a-8288-d5e6c357331d"
+Parent: "681bb860-3667-422a-96cc-004882ad7b35"
+Template: "1c82e550-ebcd-4e5d-8abd-d50d0809541e"
+Path: "/sitecore/content/PLAY/playwebsite/home/demo-pages/mpstest/Data"
+BranchID: "757e8bd1-9a5e-416c-ad3f-c7a22981d285"
+SharedFields:
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{CE55A51D-753E-4F2C-9184-B795EF200CBF}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "55e8a3be-9dde-4682-9e83-94bccf1f5f0c"

@@ -1,0 +1,13 @@
+﻿---
+ID: "2405b701-e981-4bdb-8a9d-3e3b8a361760"
+Parent: "4672136d-ab50-42e9-b9b5-a17fbfc8ee77"
+Template: "fe5dd826-48c6-436d-b87a-7c4210c7413b"
+Path: "/sitecore/media library/Project/frb/frb-minneapolis/System"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "9b75c6b2-b653-422c-9b29-f5761fc8be13"

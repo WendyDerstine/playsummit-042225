@@ -1,0 +1,31 @@
+﻿---
+ID: "00bd523d-4412-4fce-9d75-b8c413b4fc9d"
+Parent: "4f4f3ade-08e0-4984-9431-34364e582f2e"
+Template: "49c111d0-6867-4798-a724-1f103166e6e9"
+Path: "/sitecore/content/frb/frb-new-york/Presentation/Headless Variants/RichText"
+BranchID: "6d954d26-5ba2-4e17-9260-28fdc6b057d0"
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: Office/32x32/text.png
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: "f311bbcd-28eb-4b70-8970-de2e9efa2a05"
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{85A9998F-01FB-4FB9-8448-EF0B0BCFBB8B}"
+Languages:
+- Language: en
+  Fields:
+  - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
+    Hint: __Unversioned revision
+    Value: "04abff3d-5ec6-40b8-af66-11285fa9e8fd"
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Rich Text
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "8544c4ab-24d1-4afc-b47a-93fd26b1a860"

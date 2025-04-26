@@ -1,0 +1,13 @@
+﻿---
+ID: "e9ade54f-2955-4615-ac33-45a53cda82c0"
+Parent: "8ac39e73-3229-43f8-9a57-a15cc30796af"
+Template: "fe5dd826-48c6-436d-b87a-7c4210c7413b"
+Path: "/sitecore/media library/Project/frb/frb---san-francisco/System"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "f3d1c7be-398a-493f-ab48-93a818d700f8"

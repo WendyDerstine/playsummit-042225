@@ -1,0 +1,24 @@
+﻿---
+ID: "b37c254c-b754-42c9-b690-57ab23505c88"
+Parent: "6b87b3a1-5a88-4712-ac80-238331a2515a"
+Template: "c6dc7393-15bb-4cd7-b798-ab63e77ebac4"
+Path: "/sitecore/content/frb/frb-chicago/Presentation/Styles/Common"
+BranchID: "75653e9d-3c5c-45d4-823d-1bb04474400b"
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 2700
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: "cfac871c-f0d4-4c23-a278-1202faa9899f"
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{7010BA58-7030-4966-A2E6-D5D62448F931}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "1138b326-9acd-4758-a48a-220b09f0bafb"

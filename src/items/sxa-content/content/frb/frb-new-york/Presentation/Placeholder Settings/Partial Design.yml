@@ -1,0 +1,13 @@
+﻿---
+ID: "7617dacd-d7b7-4ef3-8991-badaa53b0f80"
+Parent: "c2a4fc45-67d5-48e5-ae73-01483576b63e"
+Template: "52288e39-7830-4694-b62d-32a54c6ef7ba"
+Path: "/sitecore/content/frb/frb-new-york/Presentation/Placeholder Settings/Partial Design"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "a5ec4a0d-43ee-4b85-a60b-e106cbacadd1"

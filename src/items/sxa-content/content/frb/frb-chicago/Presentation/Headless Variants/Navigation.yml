@@ -1,0 +1,24 @@
+﻿---
+ID: "66f21b2b-b744-4390-8903-ac5106a4eb58"
+Parent: "3d96afac-cd8e-407d-8071-1b078405315f"
+Template: "49c111d0-6867-4798-a724-1f103166e6e9"
+Path: "/sitecore/content/frb/frb-chicago/Presentation/Headless Variants/Navigation"
+BranchID: "70519928-c595-4b2b-bb35-75022feecc4c"
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: Office/32x32/signpost.png
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: "4e94d86d-f457-4300-97ff-d3b2f883e889"
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{8A535969-7E57-4951-86D3-5E12DBFF31D3}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "692dabe5-a60c-4568-809f-4508e5cf1318"

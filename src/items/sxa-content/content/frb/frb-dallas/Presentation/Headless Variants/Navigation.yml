@@ -1,0 +1,24 @@
+﻿---
+ID: "32dcbc0e-22ef-4de0-820c-f8889812f1db"
+Parent: "a1ad6343-f8b6-4a00-8088-d77e01a1ca86"
+Template: "49c111d0-6867-4798-a724-1f103166e6e9"
+Path: "/sitecore/content/frb/frb-dallas/Presentation/Headless Variants/Navigation"
+BranchID: "70519928-c595-4b2b-bb35-75022feecc4c"
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: Office/32x32/signpost.png
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: "e9fceede-2f7b-4ea9-a1ab-ef6b71946b9d"
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{8A535969-7E57-4951-86D3-5E12DBFF31D3}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "65afa5ca-2fd6-4271-ab32-04b8aa90bf7c"

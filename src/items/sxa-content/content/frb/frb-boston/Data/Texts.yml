@@ -1,0 +1,13 @@
+﻿---
+ID: "112f0daa-de47-4037-921d-0e11cd97ca0a"
+Parent: "d1373b0c-90c8-49e8-b203-2c1b2d254351"
+Template: "b762d567-87f5-493c-bb48-0c455d834457"
+Path: "/sitecore/content/frb/frb-boston/Data/Texts"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "2858cc9f-4362-4d2b-a0f2-9ab3dc8a690a"

@@ -1,0 +1,13 @@
+﻿---
+ID: "77efcdbb-10c5-4e7c-90ac-6b20db11f49d"
+Parent: "c19462f6-492d-47c7-9c21-34648450f47d"
+Template: "9c2d0fdf-4daf-4494-bde7-f857f1924825"
+Path: "/sitecore/content/frb/frb-st-louis/Data/Navigation Filters"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "8919933f-19a9-447d-b91f-a3f070a0c5cd"

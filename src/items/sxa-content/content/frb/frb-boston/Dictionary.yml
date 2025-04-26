@@ -1,0 +1,27 @@
+﻿---
+ID: "3d3ba5b3-247c-46ae-89bd-ddf4a4eab108"
+Parent: "f1fa89dc-91dd-4283-a535-06c230416dda"
+Template: "0a2847e6-9885-450b-b61e-f9e6528480ef"
+Path: "/sitecore/content/frb/frb-boston/Dictionary"
+BranchID: "45cf9f42-b3ac-4412-aab9-f8441c7e448e"
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: Office/32x32/book2.png
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 1500
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: "c7dbeb2c-f822-4cd4-af80-ebd4cc0dad61"
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{95DA6E6D-AA58-4322-A36E-E5C63FCF1AD1}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "cdac6fb4-35ed-4e84-b0b6-21405aa01684"

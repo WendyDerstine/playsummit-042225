@@ -1,0 +1,13 @@
+﻿---
+ID: "c1268f94-7041-4ede-8971-5480837ed290"
+Parent: "d1373b0c-90c8-49e8-b203-2c1b2d254351"
+Template: "8fe7f8dc-cb5d-42c2-99f8-76608c243f10"
+Path: "/sitecore/content/frb/frb-boston/Data/Promos"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "9cef28bb-8959-4992-ba88-42d385dc2cd9"

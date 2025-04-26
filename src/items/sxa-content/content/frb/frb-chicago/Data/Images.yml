@@ -1,0 +1,13 @@
+﻿---
+ID: "5ed794a8-d3e9-4820-b9c5-e985f7e8cecf"
+Parent: "9482cc4d-0326-40a0-93a8-4587ee794d82"
+Template: "f7a45276-87f1-4ea5-bf25-e3c7cb7aa993"
+Path: "/sitecore/content/frb/frb-chicago/Data/Images"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "ca7de760-7ebe-4a50-a5d2-bb42b80387b9"

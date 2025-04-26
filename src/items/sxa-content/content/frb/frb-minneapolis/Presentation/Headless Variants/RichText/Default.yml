@@ -1,0 +1,18 @@
+﻿---
+ID: "76999039-3972-4a1b-846b-5695581fac1c"
+Parent: "3457d1e6-e946-43b8-b947-3dac8ad0f5f0"
+Template: "4d50cdae-c2d9-4de8-b080-8f992bfb1b55"
+Path: "/sitecore/content/frb/frb-minneapolis/Presentation/Headless Variants/RichText/Default"
+BranchID: "6d954d26-5ba2-4e17-9260-28fdc6b057d0"
+SharedFields:
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{DF1847D5-271E-47E0-8630-8E9BEAFE60B3}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "bb9ee26a-ca41-4679-bbb4-5e90cf6e8445"

@@ -1,0 +1,13 @@
+﻿---
+ID: "3dcec2b4-0eb9-4326-b6cb-6a60379e962c"
+Parent: "4672136d-ab50-42e9-b9b5-a17fbfc8ee77"
+Template: "fe5dd826-48c6-436d-b87a-7c4210c7413b"
+Path: "/sitecore/media library/Project/frb/frb-minneapolis/Sitemaps"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "50b1ad49-adc1-418d-838c-6afe1a220e87"

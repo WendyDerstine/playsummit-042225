@@ -1,0 +1,13 @@
+﻿---
+ID: "b72e988e-410d-4576-9760-dfd8094a3afa"
+Parent: "849d4d73-b1b0-4fde-bc61-2a7c1990bdde"
+Template: "52288e39-7830-4694-b62d-32a54c6ef7ba"
+Path: "/sitecore/content/frb/frb-dallas/Presentation/Placeholder Settings/Partial Design"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "b0d128bd-2a98-47d4-991d-07c3e3a5cb8b"

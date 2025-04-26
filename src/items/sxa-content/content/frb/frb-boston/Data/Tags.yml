@@ -1,0 +1,13 @@
+﻿---
+ID: "f6428139-1e56-4dfd-a1c6-e46033b47311"
+Parent: "d1373b0c-90c8-49e8-b203-2c1b2d254351"
+Template: "25a6b824-672f-4c15-9b98-0b231c80f81c"
+Path: "/sitecore/content/frb/frb-boston/Data/Tags"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "a08c3107-62a9-4e8d-9211-3734e6c6a5f8"

@@ -1,0 +1,24 @@
+﻿---
+ID: "03d81ba8-d4e2-4b97-83b7-8aca4d8365f5"
+Parent: "66f7390b-8eec-4d85-9e7c-77c4605fc921"
+Template: "49c111d0-6867-4798-a724-1f103166e6e9"
+Path: "/sitecore/content/frb/frb-boston/Presentation/Headless Variants/Navigation"
+BranchID: "70519928-c595-4b2b-bb35-75022feecc4c"
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: Office/32x32/signpost.png
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: "883a7c3d-25ce-4169-894d-ed55b3336cc7"
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{8A535969-7E57-4951-86D3-5E12DBFF31D3}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "f3fa38a7-072a-439d-a741-c1a94adc8b81"

@@ -1,0 +1,13 @@
+﻿---
+ID: "18727f6e-1f61-4745-aa19-715a559da54c"
+Parent: "618640f1-165e-4e6b-aa09-60500a960a49"
+Template: "fe5dd826-48c6-436d-b87a-7c4210c7413b"
+Path: "/sitecore/media library/Project/frb/frb-richmond/Sitemaps"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "6fcd9cf1-c70f-41d5-ab6a-36ed4485cbe9"

@@ -1,0 +1,18 @@
+﻿---
+ID: "94fb8433-40c9-4063-90a7-e6002a88a694"
+Parent: "b19442f8-dc30-4c22-aba2-c990c5e06dd4"
+Template: "c6dc7393-15bb-4cd7-b798-ab63e77ebac4"
+Path: "/sitecore/content/frb/frb-boston/Presentation/Styles"
+BranchID: "75653e9d-3c5c-45d4-823d-1bb04474400b"
+SharedFields:
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{47019583-10DF-46B6-BDCC-1741BECC3CDA}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "f12b1a0f-0674-40cf-8f9b-d076b5c1ffd1"

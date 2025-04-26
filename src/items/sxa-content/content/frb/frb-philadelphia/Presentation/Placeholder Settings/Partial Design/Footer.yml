@@ -1,0 +1,20 @@
+﻿---
+ID: "a3dd51b7-e538-4c29-b627-d714f3bf9e67"
+Parent: "56631e87-ad23-41d3-81df-1b3118059193"
+Template: "d2a6884c-04d5-4089-a64e-d27ca9d68d4c"
+Path: "/sitecore/content/frb/frb-philadelphia/Presentation/Placeholder Settings/Partial Design/Footer"
+SharedFields:
+- ID: "7256bdab-1fd2-49dd-b205-cb4873d2917c"
+  Hint: Placeholder Key
+  Value: "sxa-footer"
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: "35dd17d8-66d6-4f49-89c3-f253275247e2"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "76f9708f-fa05-465e-846c-c13b9a9530d4"

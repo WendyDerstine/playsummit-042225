@@ -1,0 +1,31 @@
+﻿---
+ID: "0e1e472e-beba-4a6d-9403-9ebd50b61bff"
+Parent: "49306a32-52b0-46cc-8c2a-d849599f7e41"
+Template: "49c111d0-6867-4798-a724-1f103166e6e9"
+Path: "/sitecore/content/frb/frb---san-francisco/Presentation/Headless Variants/PageContent"
+BranchID: "5abe3762-5a9c-4710-9730-bb302e90fd13"
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: Office/32x32/scroll.png
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: "c42721b3-d0e8-4a6b-a08f-3ff1e4d2f727"
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{01E7C00F-89F4-4D2F-AEDF-F79DB531842E}"
+Languages:
+- Language: en
+  Fields:
+  - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
+    Hint: __Unversioned revision
+    Value: "2e708d38-4190-47c7-be3a-5769f64c8bd9"
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Page Content
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "323e6492-f310-4120-bf5a-1a506f22dcd5"

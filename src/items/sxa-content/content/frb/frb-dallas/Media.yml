@@ -1,0 +1,26 @@
+﻿---
+ID: "2d2ca441-08db-4aa5-b9dd-f1cfe52867f1"
+Parent: "1fe2d9bf-ebdf-4677-ab98-f0ace2c02e2c"
+Template: "e8e8c94f-4248-43c3-a79f-99fbb49d78e6"
+Path: "/sitecore/content/frb/frb-dallas/Media"
+BranchID: "45cf9f42-b3ac-4412-aab9-f8441c7e448e"
+SharedFields:
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: "36859e86-156c-4607-8876-df5698b7ae8a"
+- ID: "de8257d9-43aa-4eff-a2f4-2e9fbbd20e79"
+  Hint: AdditionalChildren
+  Value: |
+    {57498395-6E66-457C-B8BB-BCC804C25106}
+    {FC2A3FCB-F445-4CB0-AAD7-5AFAC93673C0}
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{A7F39EA2-9018-4622-891D-CB65627E5AF2}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "1f3da5d5-3f9c-4d33-8b01-0d2bbb110f63"

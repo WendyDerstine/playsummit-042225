@@ -1,0 +1,13 @@
+﻿---
+ID: "0f9fc49c-c8ef-403c-86f9-7b0cff7ef915"
+Parent: "1d566d42-3340-4646-a830-e468d266cede"
+Template: "1d566d42-3340-4646-a830-e468d266cede"
+Path: /sitecore/templates/Project/frb/Headless Site/__Standard Values
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "3aaff33b-4144-4b0f-b809-70264ad557e1"

@@ -1,0 +1,13 @@
+﻿---
+ID: "a4bf656f-dbae-465c-b604-17029b146f26"
+Parent: "c19462f6-492d-47c7-9c21-34648450f47d"
+Template: "25a6b824-672f-4c15-9b98-0b231c80f81c"
+Path: "/sitecore/content/frb/frb-st-louis/Data/Tags"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "50482840-ec1d-4ee0-9bb7-b9d7103cd15e"

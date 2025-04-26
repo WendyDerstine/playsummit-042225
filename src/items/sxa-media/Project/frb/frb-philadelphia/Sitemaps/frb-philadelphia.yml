@@ -1,0 +1,13 @@
+﻿---
+ID: "f9342584-0018-48d5-8c53-b12b5fcadd55"
+Parent: "67e6a2ef-b50b-43ec-b034-44d983b7abf8"
+Template: "fe5dd826-48c6-436d-b87a-7c4210c7413b"
+Path: "/sitecore/media library/Project/frb/frb-philadelphia/Sitemaps/frb-philadelphia"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "2731d973-bd2e-4856-8cad-017bd3cd007b"

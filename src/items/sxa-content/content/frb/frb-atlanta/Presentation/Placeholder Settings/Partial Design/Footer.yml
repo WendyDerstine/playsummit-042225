@@ -1,0 +1,20 @@
+﻿---
+ID: "e40db094-9903-41e4-af51-7f9c2a48f5e9"
+Parent: "a8c54546-604e-48bc-93bf-767bdf858252"
+Template: "d2a6884c-04d5-4089-a64e-d27ca9d68d4c"
+Path: "/sitecore/content/frb/frb-atlanta/Presentation/Placeholder Settings/Partial Design/Footer"
+SharedFields:
+- ID: "7256bdab-1fd2-49dd-b205-cb4873d2917c"
+  Hint: Placeholder Key
+  Value: "sxa-footer"
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: "ba8036bc-f6e2-4d12-8698-c8c1cbab6bb3"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "cdbe7c8f-d233-44dc-990f-1b81fdd124c9"

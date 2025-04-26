@@ -1,0 +1,13 @@
+﻿---
+ID: "7030a7e2-781f-46c7-bf0e-5ca20818414f"
+Parent: "05e3a067-b81a-42fb-8a79-daf3cd4113ff"
+Template: "fe5dd826-48c6-436d-b87a-7c4210c7413b"
+Path: "/sitecore/media library/Project/frb/frb-dallas/Sitemaps/frb-dallas"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "6ced8b17-4366-436c-8fbb-68536e3590fd"

@@ -1,0 +1,13 @@
+﻿---
+ID: "df99dc2c-3421-436b-92ed-ec3dd7619f2e"
+Parent: "7e26688e-fa65-46fe-b533-5c2cd20b0b63"
+Template: "8fe7f8dc-cb5d-42c2-99f8-76608c243f10"
+Path: "/sitecore/content/frb/frb-minneapolis/Data/Promos"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "5ad0397f-2377-450a-bc5b-af1498cf95a6"

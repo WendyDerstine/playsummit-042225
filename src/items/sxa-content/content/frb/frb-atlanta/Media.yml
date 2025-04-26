@@ -1,0 +1,27 @@
+﻿---
+ID: "1af2b4fa-c16b-4902-9072-3a7545bc0de3"
+Parent: "2a698198-b1fe-4c3a-bf37-bddad38fdae6"
+Template: "e8e8c94f-4248-43c3-a79f-99fbb49d78e6"
+Path: "/sitecore/content/frb/frb-atlanta/Media"
+BranchID: "45cf9f42-b3ac-4412-aab9-f8441c7e448e"
+SharedFields:
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: "4103bbcf-ac17-4147-ae47-2ea7925f689d"
+- ID: "de8257d9-43aa-4eff-a2f4-2e9fbbd20e79"
+  Hint: AdditionalChildren
+  Value: |
+    {B54BE77C-09C3-42FD-94DE-3D03E15CE991}
+    {FC2A3FCB-F445-4CB0-AAD7-5AFAC93673C0}
+    {B4D0BE7D-1DCD-4263-9EDE-9E6693DA8BCB}
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{A7F39EA2-9018-4622-891D-CB65627E5AF2}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "0afdda44-e503-4e6d-b441-73929934b3ec"

@@ -1,0 +1,13 @@
+﻿---
+ID: "ca293628-77e8-48c6-945a-3f5925fc6f08"
+Parent: "5206b17b-eee3-4569-b052-f38748d19ad5"
+Template: "fe5dd826-48c6-436d-b87a-7c4210c7413b"
+Path: "/sitecore/media library/Project/frb/frb-philadelphia/System"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "22982402-3957-42b0-9eaf-9bcbc69e7000"

@@ -1,0 +1,13 @@
+﻿---
+ID: "fd190218-35ed-4285-85e5-262ee14f3be1"
+Parent: "75bcddcf-dafb-450e-9606-161b43d364bf"
+Template: "fe5dd826-48c6-436d-b87a-7c4210c7413b"
+Path: "/sitecore/media library/Project/frb/frb-st-louis/System"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "8fe25198-cfba-40d8-9f05-83ac775ee72d"

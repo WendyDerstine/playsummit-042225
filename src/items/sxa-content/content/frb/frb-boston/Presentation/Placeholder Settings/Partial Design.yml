@@ -1,0 +1,13 @@
+﻿---
+ID: "0ac3dad6-5d76-4881-96e0-5d268920616b"
+Parent: "db547dee-b406-4f3e-9487-391addd8650c"
+Template: "52288e39-7830-4694-b62d-32a54c6ef7ba"
+Path: "/sitecore/content/frb/frb-boston/Presentation/Placeholder Settings/Partial Design"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "3ccf1c67-1483-4d14-9d61-a5a6f987e8b2"

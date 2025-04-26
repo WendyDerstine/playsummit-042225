@@ -1,0 +1,31 @@
+﻿---
+ID: "d5ec4c45-52d7-47b4-9026-3d6b41b59abd"
+Parent: "4f4f3ade-08e0-4984-9431-34364e582f2e"
+Template: "49c111d0-6867-4798-a724-1f103166e6e9"
+Path: "/sitecore/content/frb/frb-new-york/Presentation/Headless Variants/Title"
+BranchID: "3f7de82f-366f-4708-a1fe-9b0a42862492"
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: Office/32x32/document_orientation_portrait.png
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: "db40ced6-fe2b-48c6-9b04-245c38f0a288"
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{DEFC0749-9211-4ABD-B0CC-08FC55FD7D0B}"
+Languages:
+- Language: en
+  Fields:
+  - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
+    Hint: __Unversioned revision
+    Value: "e58a1c7b-3e75-420e-9ae2-2521a51293bb"
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Title
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "c766b3ba-87cf-4c29-af2d-fcd47e6d541c"

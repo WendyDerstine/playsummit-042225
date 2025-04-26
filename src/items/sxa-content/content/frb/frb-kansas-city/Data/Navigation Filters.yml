@@ -1,0 +1,13 @@
+﻿---
+ID: "460e425b-ed55-48ba-a891-b0074a80c86a"
+Parent: "477c67fa-0a25-4b4d-b907-0023e5f8eb34"
+Template: "9c2d0fdf-4daf-4494-bde7-f857f1924825"
+Path: "/sitecore/content/frb/frb-kansas-city/Data/Navigation Filters"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "9a93a30b-ed4a-46ae-9303-0437d7ba1371"

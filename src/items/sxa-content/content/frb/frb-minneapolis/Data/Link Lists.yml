@@ -1,0 +1,13 @@
+﻿---
+ID: "3736022c-7974-47cb-a05b-a12f6ea5686c"
+Parent: "7e26688e-fa65-46fe-b533-5c2cd20b0b63"
+Template: "c237d144-647a-4afe-aa7b-1570f3e3f139"
+Path: "/sitecore/content/frb/frb-minneapolis/Data/Link Lists"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "71e6ea29-d9c3-46e2-a879-b81ce916d0b4"

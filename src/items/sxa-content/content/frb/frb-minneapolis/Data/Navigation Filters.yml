@@ -1,0 +1,13 @@
+﻿---
+ID: "e2e922a5-89af-4d89-84c1-7b2bd1851349"
+Parent: "7e26688e-fa65-46fe-b533-5c2cd20b0b63"
+Template: "9c2d0fdf-4daf-4494-bde7-f857f1924825"
+Path: "/sitecore/content/frb/frb-minneapolis/Data/Navigation Filters"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "ba89d22c-a74a-474c-80e8-0b9f2df7f15c"

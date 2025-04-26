@@ -1,0 +1,13 @@
+﻿---
+ID: "8a95f834-2fc0-402d-8608-1e408b21dbed"
+Parent: "36886fa6-6137-4218-b111-2e2c79558134"
+Template: "52288e39-7830-4694-b62d-32a54c6ef7ba"
+Path: "/sitecore/content/frb/frb-richmond/Presentation/Placeholder Settings/Partial Design"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "a1653306-2128-4121-97ff-df18b661701f"

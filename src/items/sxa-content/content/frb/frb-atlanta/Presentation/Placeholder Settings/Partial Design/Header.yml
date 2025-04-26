@@ -1,0 +1,20 @@
+﻿---
+ID: "b776bf4f-4945-4888-bd43-e54f3fa63f98"
+Parent: "a8c54546-604e-48bc-93bf-767bdf858252"
+Template: "d2a6884c-04d5-4089-a64e-d27ca9d68d4c"
+Path: "/sitecore/content/frb/frb-atlanta/Presentation/Placeholder Settings/Partial Design/Header"
+SharedFields:
+- ID: "7256bdab-1fd2-49dd-b205-cb4873d2917c"
+  Hint: Placeholder Key
+  Value: "sxa-header"
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: "e820dcc0-6d16-4b2b-8795-6e79bfddd026"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "1f35ba8b-45df-43ca-b129-fc054e31dc74"

@@ -1,0 +1,18 @@
+﻿---
+ID: "5dfe158a-f376-4d43-a7ac-344848cfc596"
+Parent: "ae77ee9a-13c6-424b-9035-3a3e47fbcd94"
+Template: "68a94fac-3f27-46c5-8361-5c1ad1dd7869"
+Path: "/sitecore/content/frb/frb-richmond/Presentation/Partial Designs"
+BranchID: "45cf9f42-b3ac-4412-aab9-f8441c7e448e"
+SharedFields:
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{703ABB6D-BE33-4F9D-97FF-EE1571A14C81}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "8fd88585-58f4-4dc4-aea5-6dd828529b41"

@@ -1,0 +1,18 @@
+﻿---
+ID: "b75d28e9-f0c1-458d-9a63-60cd3be38cfa"
+Parent: "0bdc0f4c-80ed-4045-a5b5-c873f7e535b9"
+Template: "4d50cdae-c2d9-4de8-b080-8f992bfb1b55"
+Path: "/sitecore/content/frb/frb-st-louis/Presentation/Headless Variants/Image/Default"
+BranchID: "ae87ba03-4197-4107-82d5-f8b1cafe3bff"
+SharedFields:
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{715BA68D-500D-4C0C-A611-8AD2B3478B21}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "537bc27f-4d6d-43fe-b11a-fd7f58806244"

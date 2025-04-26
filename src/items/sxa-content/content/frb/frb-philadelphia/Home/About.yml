@@ -1,0 +1,49 @@
+﻿---
+ID: "21a268cb-8ee1-4be7-9138-1071d43d7909"
+Parent: "920849e3-3a28-4240-8c22-1ad904bf5965"
+Template: "2c3677b9-9a87-4d55-b5f2-a5c6d32e9b59"
+Path: "/sitecore/content/frb/frb-philadelphia/Home/About"
+BranchID: "aa757cc9-f2da-4f78-a33d-9d382d5fcf92"
+SharedFields:
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: "0c6ec5dc-e871-4ea9-b74d-464db2d6140f"
+- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+  Hint: __Renderings
+  Value: |
+    <r xmlns:p="p" xmlns:s="s"
+      p:p="1">
+      <d
+        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+        <r
+          uid="{865F0174-8103-410F-BC9B-BEB6AC28F917}"
+          p:before="*"
+          s:id="{7A1D9A21-B8D7-42F9-9B0B-92ABF8D1974F}"
+          s:par="?Styles=%7b4BFA870F-D742-4131-8A3B-BB45EDC948CE%7d%7c%7b72D6B9DE-D2AE-4CF4-8696-B9B6B5449207%7d%7c%7b8BF92DBE-0C75-43F9-A5CA-6DAD2CECBCA2%7d%7c%7bEC4162EE-9A5C-47A1-909E-E15116189410%7d%7c%7bC7F59854-5F49-4B08-9679-F687E2E210A6%7d%7c%7b9EAF84C4-F5A3-4F1A-81A2-3B309F268F0A%7d%7c%7bACFBE935-BA1B-4D35-AB50-7CEC88EAA26F%7d%7c%7b0E3AC969-0CA5-41FF-8CBB-EF37543FD5CD%7d%7c%7bD12312D9-110B-4A5A-B093-01BBD2002D15%7d%7c%7bD0285A4E-17F6-4EBE-A14D-88F16A074041%7d%7c%7b58279CEB-3778-4E3C-8CDB-ECE5AF3CA58C%7d%7c%7b4A1A15D7-A81E-4FF0-843D-54B86E61DA91%7d%7c%7b9D68D834-8DA1-4239-AAEF-2C5FC93198C4%7d&amp;GridParameters=%7b7465D855-992E-4DC2-9855-A03250DFA74B%7d&amp;DynamicPlaceholderId=1"
+          s:ph="headless-main" />
+        <r
+          uid="{08B32250-635A-4AC8-8C9B-81E006A2338B}"
+          p:after="*[1=2]"
+          s:ds="local:/Data/Text 1"
+          s:id="{9C6D53E3-FE57-4638-AF7B-6D68304C7A94}"
+          s:par="?GridParameters=%7b7465D855-992E-4DC2-9855-A03250DFA74B%7d%7c%7b959FDFBB-4691-4A17-816F-7A5330B8216A%7d%7c%7b175CB6DA-CF89-4D56-888C-EB79F514D12F%7d%7c%7b7DF615F7-0A53-42E1-A164-2B36D6126314%7d&amp;FieldNames=%7b1911A6E8-9FE5-4ECD-BBE9-B5903C25226C%7d"
+          s:ph="/headless-main/container-1" />
+      </d>
+    </r>
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{B8E694EC-3576-4CC6-8628-AEE286A9AB38}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: About
+    - ID: "73850927-da5a-4410-a59f-6e0ec76cce98"
+      Hint: Title
+      Value: About
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "9a8b0c3f-df46-4d7e-bf5b-a9b56bd0bfd4"

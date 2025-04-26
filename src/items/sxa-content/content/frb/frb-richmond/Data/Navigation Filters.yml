@@ -1,0 +1,13 @@
+﻿---
+ID: "f84d0876-857a-4f22-be16-8100da4152d4"
+Parent: "2227d5c7-192d-4d35-b4e6-3fb160878b3f"
+Template: "9c2d0fdf-4daf-4494-bde7-f857f1924825"
+Path: "/sitecore/content/frb/frb-richmond/Data/Navigation Filters"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "923896b2-c043-487f-be26-e0f2318cfdb7"

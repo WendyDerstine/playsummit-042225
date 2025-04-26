@@ -1,0 +1,26 @@
+﻿---
+ID: "2a6cb2c5-1a58-46c6-b1f3-f53c6eeeabc3"
+Parent: "57e75dcc-345f-44e8-b2e8-ca41caa67669"
+Template: "ab86861a-6030-46c5-b394-e8f99e8b87db"
+Path: /sitecore/templates/Project/frb/Page Designs
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: Office/32x32/document_chart.png
+- ID: "12c33f3f-86c5-43a5-aeb4-5598cec45116"
+  Hint: __Base template
+  Value: "{DAAF41FD-96DB-4892-BE99-F62F16D036C4}"
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: "c7eeda26-2664-4a80-868c-07510219f9ac"
+- ID: "f7d48a55-2158-4f02-9356-756654404f73"
+  Hint: __Standard values
+  Value: "{3C33BEEB-50E4-4F3A-B053-91FA344B2F02}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "366305c2-5160-4e70-9234-865d7f6ee5d1"

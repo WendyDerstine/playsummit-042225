@@ -1,0 +1,18 @@
+﻿---
+ID: "d5370f4d-49cc-49ef-ba51-71425d0dd8a0"
+Parent: "c76f8d94-3c32-44cd-af0d-8f57d55397b9"
+Template: "68a94fac-3f27-46c5-8361-5c1ad1dd7869"
+Path: "/sitecore/content/frb/frb-new-york/Presentation/Partial Designs"
+BranchID: "45cf9f42-b3ac-4412-aab9-f8441c7e448e"
+SharedFields:
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{703ABB6D-BE33-4F9D-97FF-EE1571A14C81}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "2b015f2a-957d-4c51-a68c-febd1aeebb9d"

@@ -1,0 +1,13 @@
+﻿---
+ID: "f12064c3-7b8d-4350-9301-1e4dd455d525"
+Parent: "a339424a-8fb8-4107-8011-1ea09b079a8d"
+Template: "b762d567-87f5-493c-bb48-0c455d834457"
+Path: "/sitecore/content/frb/frb-dallas/Data/Texts"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "788b2bc1-7514-4b31-a7d7-316dd3a5615e"

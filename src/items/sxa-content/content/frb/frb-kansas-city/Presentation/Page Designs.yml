@@ -1,0 +1,18 @@
+﻿---
+ID: "6c709787-c6ce-40a4-a2d0-e26e3640ce27"
+Parent: "056448d6-95e1-419a-a83c-9d328d1885ac"
+Template: "2a6cb2c5-1a58-46c6-b1f3-f53c6eeeabc3"
+Path: "/sitecore/content/frb/frb-kansas-city/Presentation/Page Designs"
+BranchID: "45cf9f42-b3ac-4412-aab9-f8441c7e448e"
+SharedFields:
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{2EA756FA-AED6-4599-83B7-36FEFE229B31}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "0d3691a3-5a64-4de1-8f12-e2316867ca9e"

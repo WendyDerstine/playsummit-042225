@@ -1,0 +1,18 @@
+﻿---
+ID: "a56f2f05-6ad8-4b85-8f39-6865083c292e"
+Parent: "f1bb2073-1280-4548-a4b5-2de948a7eabf"
+Template: "1c82e550-ebcd-4e5d-8abd-d50d0809541e"
+Path: "/sitecore/content/frb/frb-atlanta/Presentation/Partial Designs/Header/Data"
+BranchID: "c755de9b-1e44-4c8f-b830-168212b57fe7"
+SharedFields:
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{F526FC92-9C83-4135-AE12-82EAEF5ED796}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "81d19aa5-0d2e-4f28-8cd1-3df184cb4e7a"

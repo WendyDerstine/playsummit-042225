@@ -1,0 +1,18 @@
+﻿---
+ID: "96e2d93c-8707-4be3-85f7-604555b9277e"
+Parent: "fa84f4bf-0309-475b-b2aa-42c8145f56ec"
+Template: "4d50cdae-c2d9-4de8-b080-8f992bfb1b55"
+Path: "/sitecore/content/frb/frb-cleveland/Presentation/Headless Variants/RichText/Default"
+BranchID: "6d954d26-5ba2-4e17-9260-28fdc6b057d0"
+SharedFields:
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{DF1847D5-271E-47E0-8630-8E9BEAFE60B3}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "a81f9c22-22da-49f9-907b-ffa1a67dd365"

@@ -1,0 +1,13 @@
+﻿---
+ID: "3710b3d4-9878-4532-9efd-656dd843842c"
+Parent: "13aeb716-f837-48d8-91f3-5693e50d03df"
+Template: "fe5dd826-48c6-436d-b87a-7c4210c7413b"
+Path: "/sitecore/media library/Project/frb/frb-boston/Sitemaps/frb-boston"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "e0d2e28d-0e1d-4f02-8533-d189a82c3627"

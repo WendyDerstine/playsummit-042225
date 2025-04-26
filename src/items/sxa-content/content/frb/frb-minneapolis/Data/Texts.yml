@@ -1,0 +1,13 @@
+﻿---
+ID: "ac0a060f-7411-44c9-b43f-038d03463bf3"
+Parent: "7e26688e-fa65-46fe-b533-5c2cd20b0b63"
+Template: "b762d567-87f5-493c-bb48-0c455d834457"
+Path: "/sitecore/content/frb/frb-minneapolis/Data/Texts"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "02981069-9840-49e2-b459-1711a1d2d947"

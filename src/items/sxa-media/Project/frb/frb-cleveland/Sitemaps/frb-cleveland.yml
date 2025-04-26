@@ -1,0 +1,13 @@
+﻿---
+ID: "6a547f37-52ef-49dc-b780-de12d7045d73"
+Parent: "70cce291-fab5-4287-ad67-025068ce9f72"
+Template: "fe5dd826-48c6-436d-b87a-7c4210c7413b"
+Path: "/sitecore/media library/Project/frb/frb-cleveland/Sitemaps/frb-cleveland"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "048dcd05-31ba-41c2-9d23-e2b8d0366e63"

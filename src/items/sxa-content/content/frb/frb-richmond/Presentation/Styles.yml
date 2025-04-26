@@ -1,0 +1,18 @@
+﻿---
+ID: "bbdab1f4-5211-459e-948f-8bbaa5235e28"
+Parent: "ae77ee9a-13c6-424b-9035-3a3e47fbcd94"
+Template: "c6dc7393-15bb-4cd7-b798-ab63e77ebac4"
+Path: "/sitecore/content/frb/frb-richmond/Presentation/Styles"
+BranchID: "75653e9d-3c5c-45d4-823d-1bb04474400b"
+SharedFields:
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{47019583-10DF-46B6-BDCC-1741BECC3CDA}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "e29ce16e-3af8-4f56-9e71-5b5c77a2d7e8"

@@ -1,0 +1,13 @@
+﻿---
+ID: "e77faf06-7a4b-473c-945a-bef1954c56ee"
+Parent: "082f584d-ef69-4bf7-a423-fffe3b731e97"
+Template: "9c2d0fdf-4daf-4494-bde7-f857f1924825"
+Path: "/sitecore/content/frb/frb-atlanta/Data/Navigation Filters"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "1d50db6a-704d-4afa-945e-65ad7a48fd1c"

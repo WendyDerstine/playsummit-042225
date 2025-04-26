@@ -1,0 +1,13 @@
+﻿---
+ID: "f3651271-43a8-4a4a-a37f-d877a54582d6"
+Parent: "d5702864-1ec4-4e3d-8828-0b127664ae16"
+Template: "8fe7f8dc-cb5d-42c2-99f8-76608c243f10"
+Path: "/sitecore/content/frb/frb-new-york/Data/Promos"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "25a7d736-b84d-4f73-b5ae-7d590c3115cd"

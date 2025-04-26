@@ -1,0 +1,18 @@
+﻿---
+ID: "23d4e39f-b8c6-4350-b5fc-b8d13902ed0b"
+Parent: "d61eda10-7f71-4d2b-88b8-f29281d15336"
+Template: "68a94fac-3f27-46c5-8361-5c1ad1dd7869"
+Path: "/sitecore/content/frb/frb-st-louis/Presentation/Partial Designs"
+BranchID: "45cf9f42-b3ac-4412-aab9-f8441c7e448e"
+SharedFields:
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{703ABB6D-BE33-4F9D-97FF-EE1571A14C81}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "89ad64f1-b984-4924-a057-8238f472d69c"

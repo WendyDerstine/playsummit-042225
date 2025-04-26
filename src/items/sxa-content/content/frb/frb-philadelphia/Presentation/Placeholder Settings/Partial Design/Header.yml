@@ -1,0 +1,20 @@
+﻿---
+ID: "d38e85a3-7e5b-47a5-9bac-01c10b8a20c8"
+Parent: "56631e87-ad23-41d3-81df-1b3118059193"
+Template: "d2a6884c-04d5-4089-a64e-d27ca9d68d4c"
+Path: "/sitecore/content/frb/frb-philadelphia/Presentation/Placeholder Settings/Partial Design/Header"
+SharedFields:
+- ID: "7256bdab-1fd2-49dd-b205-cb4873d2917c"
+  Hint: Placeholder Key
+  Value: "sxa-header"
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: "06da185b-23a9-4883-9429-da64cc15129d"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "1d2b7d93-bc2e-4561-9672-69aaba369b61"

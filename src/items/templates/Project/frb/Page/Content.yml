@@ -1,0 +1,13 @@
+﻿---
+ID: "7cf80ae2-4704-4e1e-9190-0d73a65cee72"
+Parent: "2c3677b9-9a87-4d55-b5f2-a5c6d32e9b59"
+Template: "e269fbb5-3750-427a-9149-7aa950b49301"
+Path: /sitecore/templates/Project/frb/Page/Content
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "a1cb8372-600f-4dac-88c3-2fc96527237a"

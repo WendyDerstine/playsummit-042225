@@ -1,0 +1,13 @@
+﻿---
+ID: "56631e87-ad23-41d3-81df-1b3118059193"
+Parent: "c35c15cf-f3b9-4c01-a6bf-61f9082a5b76"
+Template: "52288e39-7830-4694-b62d-32a54c6ef7ba"
+Path: "/sitecore/content/frb/frb-philadelphia/Presentation/Placeholder Settings/Partial Design"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "ee940f21-a8dc-4f51-8cca-49971b093350"

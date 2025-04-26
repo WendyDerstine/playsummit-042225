@@ -1,0 +1,13 @@
+﻿---
+ID: "b658c70a-aaf6-4dce-8e8a-0f6a9f7264f4"
+Parent: "2c1ee6b6-8c0b-4b83-bc56-05f33c700350"
+Template: "9c2d0fdf-4daf-4494-bde7-f857f1924825"
+Path: "/sitecore/content/frb/frb---san-francisco/Data/Navigation Filters"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "b92eedaa-0730-492c-bb72-2d99597751fa"

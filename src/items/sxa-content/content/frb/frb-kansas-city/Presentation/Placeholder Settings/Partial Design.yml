@@ -1,0 +1,13 @@
+﻿---
+ID: "f3293a9d-241b-4dba-b6d4-43e2e682353b"
+Parent: "54ee221f-bc1b-40eb-87b6-c28febf29264"
+Template: "52288e39-7830-4694-b62d-32a54c6ef7ba"
+Path: "/sitecore/content/frb/frb-kansas-city/Presentation/Placeholder Settings/Partial Design"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "9f7d5ca2-b484-4726-bbd9-cf5b9905a317"

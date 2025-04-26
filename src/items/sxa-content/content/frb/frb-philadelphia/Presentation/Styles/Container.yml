@@ -1,0 +1,24 @@
+﻿---
+ID: "9d68d834-8da1-4239-aaef-2c5fc93198c4"
+Parent: "c8845782-11c3-4e63-9ced-d439d0cb28ce"
+Template: "c6dc7393-15bb-4cd7-b798-ab63e77ebac4"
+Path: "/sitecore/content/frb/frb-philadelphia/Presentation/Styles/Container"
+BranchID: "75653e9d-3c5c-45d4-823d-1bb04474400b"
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 2800
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: "4c29166d-dcb3-4296-8c58-362b7b7a0773"
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{A4AC1FD2-7EF8-4ABA-8D94-11BE73425641}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "bfeac736-5cf4-4cad-b6d6-e6d4ebbf8290"

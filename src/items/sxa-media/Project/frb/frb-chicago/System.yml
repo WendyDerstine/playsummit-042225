@@ -1,0 +1,13 @@
+﻿---
+ID: "33298753-42f1-442a-917a-f314f06befab"
+Parent: "dd81bf99-c184-49f8-8295-343b740ade1a"
+Template: "fe5dd826-48c6-436d-b87a-7c4210c7413b"
+Path: "/sitecore/media library/Project/frb/frb-chicago/System"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "fd609cb0-92fa-4ed8-bb60-fab7c341207a"

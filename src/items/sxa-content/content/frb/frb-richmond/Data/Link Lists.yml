@@ -1,0 +1,13 @@
+﻿---
+ID: "9d16478e-5b72-4af9-9932-a7e3db4c792a"
+Parent: "2227d5c7-192d-4d35-b4e6-3fb160878b3f"
+Template: "c237d144-647a-4afe-aa7b-1570f3e3f139"
+Path: "/sitecore/content/frb/frb-richmond/Data/Link Lists"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "545e4f9e-d114-44ac-9f57-0f847408a4d7"

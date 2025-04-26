@@ -1,0 +1,13 @@
+﻿---
+ID: "5e002704-582d-4fb1-8443-f73a2d259709"
+Parent: "082f584d-ef69-4bf7-a423-fffe3b731e97"
+Template: "c237d144-647a-4afe-aa7b-1570f3e3f139"
+Path: "/sitecore/content/frb/frb-atlanta/Data/Link Lists"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "716a2b41-9a8f-470c-a731-79cc72a37bf9"

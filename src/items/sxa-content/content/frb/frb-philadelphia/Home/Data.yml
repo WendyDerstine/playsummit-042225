@@ -1,0 +1,18 @@
+﻿---
+ID: "f1654a9e-3e75-494c-a580-f88d71fced9f"
+Parent: "920849e3-3a28-4240-8c22-1ad904bf5965"
+Template: "1c82e550-ebcd-4e5d-8abd-d50d0809541e"
+Path: "/sitecore/content/frb/frb-philadelphia/Home/Data"
+BranchID: "bf982a12-b7d1-46d0-b750-cb3bc8f89988"
+SharedFields:
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{A294864A-F47F-4FCF-AF99-5B2574BF6034}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "09c644bd-3275-4941-b5f1-a61d44ca227f"

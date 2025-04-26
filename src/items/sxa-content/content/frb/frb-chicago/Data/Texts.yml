@@ -1,0 +1,13 @@
+﻿---
+ID: "4c5a7d85-db2b-4a44-b010-86607ef1603d"
+Parent: "9482cc4d-0326-40a0-93a8-4587ee794d82"
+Template: "b762d567-87f5-493c-bb48-0c455d834457"
+Path: "/sitecore/content/frb/frb-chicago/Data/Texts"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "f4835472-2574-44fd-aa9b-8d57bcf30b46"

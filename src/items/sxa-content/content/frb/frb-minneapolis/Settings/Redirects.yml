@@ -1,0 +1,18 @@
+﻿---
+ID: "06536d82-fa43-4162-8614-7ab7dd6ff161"
+Parent: "e6598c5b-e881-4630-8d36-e9464f1f5dac"
+Template: "c2dc4690-af44-48c7-bb21-90d1ad246732"
+Path: "/sitecore/content/frb/frb-minneapolis/Settings/Redirects"
+BranchID: "50213d5e-83f8-4fa7-a91d-825e61c7b8a2"
+SharedFields:
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{DC338247-8B52-4159-8095-88F00E323E2D}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "f8c769e9-e385-434d-a5e6-0bc7d959ca93"

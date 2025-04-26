@@ -8,6 +8,9 @@ SharedFields:
 - ID: "1ee576af-ba8e-4312-9fbd-2ccf8395baa1"
   Hint: StartItem
   Value: "{2D1D7ACA-9597-5CA6-85B2-9B04907E4298}"
+- ID: "6dd8a774-2ce5-4c9e-be7f-1eaf65789956"
+  Hint: ThumbnailsRootPath
+  Value: /sitecore/media library/Project/PLAY/playwebsite
 - ID: "6e6da5b0-8d01-4514-b7dd-1940aff3e8cd"
   Hint: FieldLanguageFallback
   Value: 1
@@ -26,6 +29,9 @@ SharedFields:
 - ID: "da06d09e-02b6-464a-80fc-9d8d7fc875e3"
   Hint: Environment
   Value: *
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: "a7e37113-b242-486b-b202-4139a5920d40"
 - ID: "f57099a3-526a-49f2-aebd-635453e48875"
   Hint: RenderingHost
   Value: Default
@@ -39,4 +45,4 @@ Languages:
     Fields:
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "c23e22a3-17e2-410d-b5e1-95c7b132e34f"
+      Value: "3e230e08-7689-4e10-8fe0-8286c5d30ea5"

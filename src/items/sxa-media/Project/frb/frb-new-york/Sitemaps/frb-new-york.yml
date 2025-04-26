@@ -1,0 +1,13 @@
+﻿---
+ID: "e057401b-4cb4-4615-ae0c-08cfd30641a8"
+Parent: "5827bc7d-6fe2-4292-a78a-b471e4417da0"
+Template: "fe5dd826-48c6-436d-b87a-7c4210c7413b"
+Path: "/sitecore/media library/Project/frb/frb-new-york/Sitemaps/frb-new-york"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "d86672ae-e27a-4360-b42d-f2ffaf84650a"

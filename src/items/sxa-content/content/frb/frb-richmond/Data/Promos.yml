@@ -1,0 +1,13 @@
+﻿---
+ID: "0c2ea1d7-ccb8-4cf5-9462-56c2f46cd1c9"
+Parent: "2227d5c7-192d-4d35-b4e6-3fb160878b3f"
+Template: "8fe7f8dc-cb5d-42c2-99f8-76608c243f10"
+Path: "/sitecore/content/frb/frb-richmond/Data/Promos"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "1f87e6ab-4c8c-48ef-a413-877275c54b46"

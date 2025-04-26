@@ -1,0 +1,46 @@
+﻿---
+ID: "93c5a719-0fed-45c9-af04-154b403982f0"
+Parent: "2faa5aed-a880-4c1e-8c89-d7fb3249d382"
+Template: "fd2059fd-6043-4dfe-8c04-e2437ce87634"
+Path: "/sitecore/content/frb/frb-philadelphia/Presentation/Partial Designs/Header"
+BranchID: "c755de9b-1e44-4c8f-b830-168212b57fe7"
+SharedFields:
+- ID: "55faae90-3bba-4f7f-96fe-13c3f40055ff"
+  Hint: Signature
+  Value: header
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: "f4bf2df9-cc13-428c-90e8-869af4767c73"
+- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+  Hint: __Renderings
+  Value: |
+    <r xmlns:p="p" xmlns:s="s"
+      p:p="1">
+      <d
+        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+        <r
+          uid="{9D857F87-2470-43EE-9BDD-05D8CF68A541}"
+          p:before="*"
+          s:ds="local:/Data/Title"
+          s:id="{9C6D53E3-FE57-4638-AF7B-6D68304C7A94}"
+          s:par="?Styles=%7bA21BC749-EE09-4F2B-B28F-770A44505702%7d&amp;FieldNames=%7b1911A6E8-9FE5-4ECD-BBE9-B5903C25226C%7d&amp;GridParameters=%7b7465D855-992E-4DC2-9855-A03250DFA74B%7d%7c%7b81225C08-5783-4BED-A86A-AB2B87198885%7d"
+          s:ph="headless-header" />
+        <r
+          uid="{905698BC-3788-4D5E-9645-F9E3C28D3E2D}"
+          p:after="*[1=2]"
+          s:id="{1DEB067F-0BB1-405E-94F5-2ABB537A6160}"
+          s:par="?LevelFrom={1BB88840-5FB3-4353-AD8D-81136F6FF75A}&amp;LevelTo={1BB88840-5FB3-4353-AD8D-81136F6FF75A}&amp;FieldNames=%7bCD3536F4-0FE7-4B29-9E7C-F6CF5EE434AE%7d&amp;AddRoot=1&amp;Styles=%7bF8B494BA-60B9-4B97-85E5-EE89F3D88AC6%7d%7c%7b0B150A27-8C27-4358-8736-7D9BCE8B5450%7d&amp;GridParameters=%7b7465D855-992E-4DC2-9855-A03250DFA74B%7d&amp;NavigationRoot=%7b920849E3-3A28-4240-8C22-1AD904BF5965%7d"
+          s:ph="headless-header" />
+      </d>
+    </r>
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{D044EFED-079F-4CB1-9D22-E7BFF1DB5A8F}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "388668ee-b6cf-4102-85bd-b30f9c0e0f56"

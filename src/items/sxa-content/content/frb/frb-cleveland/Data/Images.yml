@@ -1,0 +1,13 @@
+﻿---
+ID: "f5bd3821-2f6c-4c26-b014-9ea9c54fb048"
+Parent: "d7f077c0-75cf-41a2-85d0-06fecd5aed36"
+Template: "f7a45276-87f1-4ea5-bf25-e3c7cb7aa993"
+Path: "/sitecore/content/frb/frb-cleveland/Data/Images"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "338562fb-d621-4a9a-b432-cabd3090d8b8"

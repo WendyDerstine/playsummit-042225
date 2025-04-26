@@ -1,0 +1,13 @@
+﻿---
+ID: "2016b318-6920-4bac-82b2-d91d1faac7b3"
+Parent: "d7f077c0-75cf-41a2-85d0-06fecd5aed36"
+Template: "9c2d0fdf-4daf-4494-bde7-f857f1924825"
+Path: "/sitecore/content/frb/frb-cleveland/Data/Navigation Filters"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "7964e996-a260-42d4-888b-eccbf903d8d6"

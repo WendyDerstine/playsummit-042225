@@ -1,0 +1,24 @@
+﻿---
+ID: "5d5993c5-7637-430f-8177-6f5c8e60c0a0"
+Parent: "11d04235-73b5-42ed-8e06-ea0e85eaf7dc"
+Template: "76da0a8d-fc7e-42b2-af1e-205b49e43f98"
+Path: "/sitecore/content/frb/frb---san-francisco/Presentation/Available Renderings/Forms"
+BranchID: "7b3936fd-0957-4a49-b613-58f1bfa0e876"
+SharedFields:
+- ID: "715ae6c0-71c8-4744-ab4f-65362d20ad65"
+  Hint: Renderings
+  Value: "{62DD1639-9F28-4040-8738-C886480B2127}"
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: "8b06b921-5818-43f7-9c79-1dfcd9fe80f9"
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{56779A51-46D2-45FD-8E19-434EF93B759B}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "4a21ad1b-f76c-4113-8fb6-328c168aa5ba"

@@ -1,0 +1,25 @@
+﻿---
+ID: "b01fb5dd-f780-4223-b60d-ca30fde75777"
+Parent: "291f41e9-cec1-4506-8486-afb320ae34cc"
+Template: "3ee5e476-e843-51f1-a351-d2c3b198475a"
+Path: "/sitecore/content/PLAY/playwebsite/home/landing-pages/Demo/Data/Hero Image"
+BranchID: "03897603-e3eb-4777-b0b1-f106fda3ff91"
+SharedFields:
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{723D9E6F-E9A3-43A8-BDB3-57B7CE6EE201}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "7f1d47cf-4525-5f3e-b8fe-4c6ddbcefa39"
+      Hint: hero
+      Value: |
+        <Image src="https://wendemoplay.sitecoresandbox.cloud/api/public/content/b486f1642bbf401f8133df9280f69b1b?v=63677c21" dam-id="zPGfLP5tSRm6JNyX5t9Ovg" width="2048" height="1366" alt="frb-advanced-strategist.jpg" dam-content-type="Image" thumbnailsrc="https://wendemoplay.sitecoresandbox.cloud/api/gateway/91894/thumbnail" />
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "82b6efd9-4c4b-40ae-afc1-05a1b9ca778b"

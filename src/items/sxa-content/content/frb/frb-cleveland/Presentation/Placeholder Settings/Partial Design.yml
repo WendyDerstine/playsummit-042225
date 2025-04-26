@@ -1,0 +1,13 @@
+﻿---
+ID: "e6fb8359-70e5-43ca-9a67-621dd9df1c9d"
+Parent: "56e9c973-2ff6-4630-8ac0-39810652a6b7"
+Template: "52288e39-7830-4694-b62d-32a54c6ef7ba"
+Path: "/sitecore/content/frb/frb-cleveland/Presentation/Placeholder Settings/Partial Design"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "6c1592c6-837b-43bb-bae0-e7dcb13f2219"

@@ -1,0 +1,18 @@
+﻿---
+ID: "c0dc6cd5-980a-40e1-9a84-bc3aab04c4a1"
+Parent: "7a03243f-1b89-4070-9ea1-d6cfae089f13"
+Template: "c6dc7393-15bb-4cd7-b798-ab63e77ebac4"
+Path: "/sitecore/content/frb/frb---san-francisco/Presentation/Styles"
+BranchID: "75653e9d-3c5c-45d4-823d-1bb04474400b"
+SharedFields:
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{47019583-10DF-46B6-BDCC-1741BECC3CDA}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "cb750a58-fe8e-4fc4-9f7e-6dca869f809f"

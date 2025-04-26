@@ -1,0 +1,13 @@
+﻿---
+ID: "fc9372b1-d700-4abf-814c-cf001c9317da"
+Parent: "5b842f97-3622-40ce-bee0-6f4275596784"
+Template: "8fe7f8dc-cb5d-42c2-99f8-76608c243f10"
+Path: "/sitecore/content/frb/frb-philadelphia/Data/Promos"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "4183d092-964a-4c9a-bedc-869a17eacce5"

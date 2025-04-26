@@ -1,0 +1,13 @@
+﻿---
+ID: "76dbf390-d9f9-47bd-b727-d7690e765437"
+Parent: "5b842f97-3622-40ce-bee0-6f4275596784"
+Template: "9c2d0fdf-4daf-4494-bde7-f857f1924825"
+Path: "/sitecore/content/frb/frb-philadelphia/Data/Navigation Filters"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "c1d8254b-36d6-4230-bcd8-3278ddb90c69"

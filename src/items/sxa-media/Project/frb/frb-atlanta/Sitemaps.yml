@@ -1,0 +1,13 @@
+﻿---
+ID: "689431ca-1db2-4964-9c63-9c3a55fc8c5d"
+Parent: "b54be77c-09c3-42fd-94de-3d03e15ce991"
+Template: "fe5dd826-48c6-436d-b87a-7c4210c7413b"
+Path: "/sitecore/media library/Project/frb/frb-atlanta/Sitemaps"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "f24ca7bd-6ed2-4968-9eea-c8cbb96cbe2e"

@@ -1,0 +1,13 @@
+﻿---
+ID: "05e3a067-b81a-42fb-8a79-daf3cd4113ff"
+Parent: "57498395-6e66-457c-b8bb-bcc804c25106"
+Template: "fe5dd826-48c6-436d-b87a-7c4210c7413b"
+Path: "/sitecore/media library/Project/frb/frb-dallas/Sitemaps"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "58558edc-616e-4b03-be25-f8049d8b513d"

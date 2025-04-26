@@ -1,0 +1,18 @@
+﻿---
+ID: "bbe54898-fd40-4dc2-b023-97ff6d80da1a"
+Parent: "f709daf6-66bd-4c96-a6a3-f56af3e233ca"
+Template: "4d50cdae-c2d9-4de8-b080-8f992bfb1b55"
+Path: "/sitecore/content/frb/frb---san-francisco/Presentation/Headless Variants/LinkList/Default"
+BranchID: "70519928-c595-4b2b-bb35-75022feecc4c"
+SharedFields:
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{25F1A8E5-EB4C-4202-A9F7-A97DB52DA9AF}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "2f9bb48d-b2da-43e0-bda3-cb4504e9872e"

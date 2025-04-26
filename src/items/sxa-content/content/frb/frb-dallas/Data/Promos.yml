@@ -1,0 +1,13 @@
+﻿---
+ID: "4af8be49-0200-499e-a28a-9e793494eb7b"
+Parent: "a339424a-8fb8-4107-8011-1ea09b079a8d"
+Template: "8fe7f8dc-cb5d-42c2-99f8-76608c243f10"
+Path: "/sitecore/content/frb/frb-dallas/Data/Promos"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "f53b4cfe-d242-49f0-b173-929ec5142298"

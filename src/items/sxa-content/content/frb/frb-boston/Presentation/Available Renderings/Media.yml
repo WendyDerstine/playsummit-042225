@@ -1,0 +1,24 @@
+﻿---
+ID: "2a2e31c2-63d5-4743-9fd3-9a21e47f5119"
+Parent: "d952da5c-6709-447b-b5bb-b908c30905d4"
+Template: "76da0a8d-fc7e-42b2-af1e-205b49e43f98"
+Path: "/sitecore/content/frb/frb-boston/Presentation/Available Renderings/Media"
+BranchID: "80a19fb5-570d-4b16-94cf-6d294ddc78ec"
+SharedFields:
+- ID: "715ae6c0-71c8-4744-ab4f-65362d20ad65"
+  Hint: Renderings
+  Value: "{AB2EDBA0-3960-4F12-B765-579DC231894A}"
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: "4293606a-e25c-477f-b54a-ece7a2ae5764"
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{A2C2E7AD-2885-48FB-BE23-052C4C5F5CC4}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "ec03e255-2f46-474f-9a83-bb8503aac0dc"

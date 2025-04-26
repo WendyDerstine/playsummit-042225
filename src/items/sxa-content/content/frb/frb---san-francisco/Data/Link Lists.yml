@@ -1,0 +1,13 @@
+﻿---
+ID: "c334be2e-aaff-408d-adc8-4cfe0a3c3fd3"
+Parent: "2c1ee6b6-8c0b-4b83-bc56-05f33c700350"
+Template: "c237d144-647a-4afe-aa7b-1570f3e3f139"
+Path: "/sitecore/content/frb/frb---san-francisco/Data/Link Lists"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "9ba51e47-9047-40cd-888c-d7a994246720"

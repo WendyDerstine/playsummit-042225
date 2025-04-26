@@ -1,0 +1,24 @@
+﻿---
+ID: "bebc64ff-ffb8-4702-9c60-c1534378074b"
+Parent: "cc26842e-174b-403b-b284-7c982ddb3430"
+Template: "49c111d0-6867-4798-a724-1f103166e6e9"
+Path: "/sitecore/content/frb/frb-st-louis/Presentation/Headless Variants/Promo"
+BranchID: "37229eac-e94c-4507-b543-6cb1f31294e4"
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: Office/32x32/window_dialog.png
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: "a1092aea-c598-47f6-92af-504237c15aaa"
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{63F9B1F7-5D78-4053-8480-70874BAF0DC4}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "f6fbd8cc-da52-4a57-b70a-668fd1de3123"

@@ -1,0 +1,13 @@
+﻿---
+ID: "72e031c3-d1b5-48bb-b857-007dcb0d8046"
+Parent: "d5702864-1ec4-4e3d-8828-0b127664ae16"
+Template: "25a6b824-672f-4c15-9b98-0b231c80f81c"
+Path: "/sitecore/content/frb/frb-new-york/Data/Tags"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "beab9a3c-94c9-4fb9-b376-3f1770153589"

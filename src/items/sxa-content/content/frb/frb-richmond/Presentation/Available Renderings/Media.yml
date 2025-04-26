@@ -1,0 +1,24 @@
+﻿---
+ID: "1ae991fe-e30e-4816-aba9-9b4cd1b468a6"
+Parent: "4f0e15a6-50e2-4b53-85ae-5e670c48e23e"
+Template: "76da0a8d-fc7e-42b2-af1e-205b49e43f98"
+Path: "/sitecore/content/frb/frb-richmond/Presentation/Available Renderings/Media"
+BranchID: "80a19fb5-570d-4b16-94cf-6d294ddc78ec"
+SharedFields:
+- ID: "715ae6c0-71c8-4744-ab4f-65362d20ad65"
+  Hint: Renderings
+  Value: "{AB2EDBA0-3960-4F12-B765-579DC231894A}"
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: "23ae7c59-fe29-4d2f-b4b4-d2c83c15dd26"
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{A2C2E7AD-2885-48FB-BE23-052C4C5F5CC4}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "917c963f-d0a5-43a1-93ed-8a05fb1faa86"

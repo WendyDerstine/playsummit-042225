@@ -1,0 +1,13 @@
+﻿---
+ID: "b1de247d-38a6-4c95-805f-f51e38f7e99a"
+Parent: "b54be77c-09c3-42fd-94de-3d03e15ce991"
+Template: "fe5dd826-48c6-436d-b87a-7c4210c7413b"
+Path: "/sitecore/media library/Project/frb/frb-atlanta/System"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "06d754d9-e724-4491-bd2a-56f95d0a9c9e"

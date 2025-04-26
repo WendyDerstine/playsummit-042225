@@ -1,0 +1,13 @@
+﻿---
+ID: "8b972f66-9687-4b78-80c4-6bb73fe04b5d"
+Parent: "a339424a-8fb8-4107-8011-1ea09b079a8d"
+Template: "c237d144-647a-4afe-aa7b-1570f3e3f139"
+Path: "/sitecore/content/frb/frb-dallas/Data/Link Lists"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "6fbd4d78-91b6-4911-8b7d-db4cb3acc9df"

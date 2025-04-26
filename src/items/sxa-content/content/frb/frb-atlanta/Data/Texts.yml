@@ -1,0 +1,13 @@
+﻿---
+ID: "1eef91cf-d292-4a74-bfb2-900863247858"
+Parent: "082f584d-ef69-4bf7-a423-fffe3b731e97"
+Template: "b762d567-87f5-493c-bb48-0c455d834457"
+Path: "/sitecore/content/frb/frb-atlanta/Data/Texts"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "fa3c5e3d-9419-4e37-81eb-45c8d9171239"

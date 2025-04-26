@@ -1,0 +1,13 @@
+﻿---
+ID: "24a66891-6ea7-4c2d-9d86-743264d28008"
+Parent: "c19462f6-492d-47c7-9c21-34648450f47d"
+Template: "8fe7f8dc-cb5d-42c2-99f8-76608c243f10"
+Path: "/sitecore/content/frb/frb-st-louis/Data/Promos"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "f5ed1c15-34f4-40da-8489-a1b5a34652dd"

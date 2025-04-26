@@ -1,0 +1,13 @@
+﻿---
+ID: "f468013e-569c-47a2-94f5-f4d3c47b5d8b"
+Parent: "d1373b0c-90c8-49e8-b203-2c1b2d254351"
+Template: "9c2d0fdf-4daf-4494-bde7-f857f1924825"
+Path: "/sitecore/content/frb/frb-boston/Data/Navigation Filters"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "e8b72813-9e47-4d65-b35b-c41464e40fde"

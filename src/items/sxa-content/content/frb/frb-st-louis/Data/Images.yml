@@ -1,0 +1,13 @@
+﻿---
+ID: "0636a0f1-5a53-47d3-b62a-7aebb74ddfd7"
+Parent: "c19462f6-492d-47c7-9c21-34648450f47d"
+Template: "f7a45276-87f1-4ea5-bf25-e3c7cb7aa993"
+Path: "/sitecore/content/frb/frb-st-louis/Data/Images"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "1dd51fdd-c05c-4dd2-a381-01dfef5f17b6"

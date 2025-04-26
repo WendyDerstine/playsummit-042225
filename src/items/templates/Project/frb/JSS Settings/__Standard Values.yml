@@ -1,0 +1,13 @@
+﻿---
+ID: "c3c65eea-26b4-4b60-8e15-ea55a4028679"
+Parent: "e827ae20-7996-4821-90ee-85e7b928a6de"
+Template: "e827ae20-7996-4821-90ee-85e7b928a6de"
+Path: /sitecore/templates/Project/frb/JSS Settings/__Standard Values
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "90319592-8c60-42fb-9be0-3fe1541835af"

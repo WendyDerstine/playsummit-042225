@@ -1,0 +1,13 @@
+﻿---
+ID: "85eec551-ec93-41b3-bac4-0db1ddc68816"
+Parent: "2c1ee6b6-8c0b-4b83-bc56-05f33c700350"
+Template: "f7a45276-87f1-4ea5-bf25-e3c7cb7aa993"
+Path: "/sitecore/content/frb/frb---san-francisco/Data/Images"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "27b2fcb6-72ae-40b8-942b-5bd56d597194"

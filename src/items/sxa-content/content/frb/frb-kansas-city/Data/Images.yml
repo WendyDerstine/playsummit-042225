@@ -1,0 +1,13 @@
+﻿---
+ID: "bd0ff9b9-dc70-46e7-8340-01cc57dd0405"
+Parent: "477c67fa-0a25-4b4d-b907-0023e5f8eb34"
+Template: "f7a45276-87f1-4ea5-bf25-e3c7cb7aa993"
+Path: "/sitecore/content/frb/frb-kansas-city/Data/Images"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "561d97cd-08f6-4a0e-9b76-4bfc2a0f555d"

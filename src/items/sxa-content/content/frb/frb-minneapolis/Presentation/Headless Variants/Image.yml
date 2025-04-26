@@ -1,0 +1,24 @@
+﻿---
+ID: "1d13bd94-d22a-49e3-bc43-eabed40a0a9e"
+Parent: "f459023e-70b2-4c00-b187-19e6aa01e348"
+Template: "49c111d0-6867-4798-a724-1f103166e6e9"
+Path: "/sitecore/content/frb/frb-minneapolis/Presentation/Headless Variants/Image"
+BranchID: "ae87ba03-4197-4107-82d5-f8b1cafe3bff"
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: Office/32x32/photo_landscape.png
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: "c6d3f648-1324-40be-ac5c-bbdca463d09f"
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{22E4CE0C-BBBC-46EC-8F36-773779104491}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "358244ca-2643-4aa0-a29f-206176ffd262"

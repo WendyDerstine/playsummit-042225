@@ -1,0 +1,13 @@
+﻿---
+ID: "62a53c31-0513-47d9-a3dd-e693f592afbf"
+Parent: "d7f077c0-75cf-41a2-85d0-06fecd5aed36"
+Template: "8fe7f8dc-cb5d-42c2-99f8-76608c243f10"
+Path: "/sitecore/content/frb/frb-cleveland/Data/Promos"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "b6c74c4e-d08b-41ea-a99d-0a96aa8fd913"

@@ -1,0 +1,13 @@
+﻿---
+ID: "cbd37d8f-6f57-4d49-8573-d3770c9359e3"
+Parent: "082f584d-ef69-4bf7-a423-fffe3b731e97"
+Template: "8fe7f8dc-cb5d-42c2-99f8-76608c243f10"
+Path: "/sitecore/content/frb/frb-atlanta/Data/Promos"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "ccd95dad-d4ff-4702-b65c-69133961ee4b"

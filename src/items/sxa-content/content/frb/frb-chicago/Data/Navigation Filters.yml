@@ -1,0 +1,13 @@
+﻿---
+ID: "7f583783-cf30-4cb8-87c6-754ac213404c"
+Parent: "9482cc4d-0326-40a0-93a8-4587ee794d82"
+Template: "9c2d0fdf-4daf-4494-bde7-f857f1924825"
+Path: "/sitecore/content/frb/frb-chicago/Data/Navigation Filters"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "6d8e9757-fe40-45e7-8299-c082926db2fb"

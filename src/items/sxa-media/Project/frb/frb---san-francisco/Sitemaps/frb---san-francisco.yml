@@ -1,0 +1,13 @@
+﻿---
+ID: "daa1f521-74f7-48f2-8a26-d02187e2cb59"
+Parent: "73bc733d-d437-44d0-a2ae-fea71a09f141"
+Template: "fe5dd826-48c6-436d-b87a-7c4210c7413b"
+Path: "/sitecore/media library/Project/frb/frb---san-francisco/Sitemaps/frb---san-francisco"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "ede7f0b0-6192-4bf9-9c4b-8284b0540670"

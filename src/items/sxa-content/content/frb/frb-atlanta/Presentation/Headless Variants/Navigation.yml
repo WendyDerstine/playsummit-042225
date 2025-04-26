@@ -1,0 +1,24 @@
+﻿---
+ID: "13b71e2e-b1ab-4d86-adea-af48f5802d68"
+Parent: "d6e8ea08-610c-4cb0-ba62-788d854ed222"
+Template: "49c111d0-6867-4798-a724-1f103166e6e9"
+Path: "/sitecore/content/frb/frb-atlanta/Presentation/Headless Variants/Navigation"
+BranchID: "70519928-c595-4b2b-bb35-75022feecc4c"
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: Office/32x32/signpost.png
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: "85d7a645-b4e3-47ba-8f9a-8f1532cbca9f"
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{8A535969-7E57-4951-86D3-5E12DBFF31D3}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "30a2b5b9-0fb2-4809-95fe-ea50cf753ad8"

@@ -1,0 +1,13 @@
+﻿---
+ID: "0a7e47a1-2885-4862-a932-20db44f183fb"
+Parent: "a339424a-8fb8-4107-8011-1ea09b079a8d"
+Template: "9c2d0fdf-4daf-4494-bde7-f857f1924825"
+Path: "/sitecore/content/frb/frb-dallas/Data/Navigation Filters"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "54fdf15e-1cd1-4cec-8c1c-bf4567078eb0"

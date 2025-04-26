@@ -1,0 +1,13 @@
+﻿---
+ID: "b096fee3-d91c-4caa-b5d1-8b9d5e6f4f86"
+Parent: "618640f1-165e-4e6b-aa09-60500a960a49"
+Template: "fe5dd826-48c6-436d-b87a-7c4210c7413b"
+Path: "/sitecore/media library/Project/frb/frb-richmond/System"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "72f5f9f5-4572-4884-bc54-f9fa56691659"

@@ -1,0 +1,18 @@
+﻿---
+ID: "398fcf58-b161-40d0-a199-9f7b75ec1b08"
+Parent: "056448d6-95e1-419a-a83c-9d328d1885ac"
+Template: "68a94fac-3f27-46c5-8361-5c1ad1dd7869"
+Path: "/sitecore/content/frb/frb-kansas-city/Presentation/Partial Designs"
+BranchID: "45cf9f42-b3ac-4412-aab9-f8441c7e448e"
+SharedFields:
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{703ABB6D-BE33-4F9D-97FF-EE1571A14C81}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "8b2a9dc6-d8d5-4eab-80dc-677238b4fb23"

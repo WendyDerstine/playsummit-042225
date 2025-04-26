@@ -1,0 +1,13 @@
+﻿---
+ID: "af14bc7d-7d2b-4bec-80fb-970edd4824e4"
+Parent: "9482cc4d-0326-40a0-93a8-4587ee794d82"
+Template: "8fe7f8dc-cb5d-42c2-99f8-76608c243f10"
+Path: "/sitecore/content/frb/frb-chicago/Data/Promos"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "a2081190-5b23-4949-812b-8619fd5e85fa"

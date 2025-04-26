@@ -1,0 +1,13 @@
+﻿---
+ID: "ee63f939-3205-42dc-a0f6-4e8cfd789367"
+Parent: "75bcddcf-dafb-450e-9606-161b43d364bf"
+Template: "fe5dd826-48c6-436d-b87a-7c4210c7413b"
+Path: "/sitecore/media library/Project/frb/frb-st-louis/Sitemaps"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "b811b0e7-1451-4306-ada6-829468905e5f"

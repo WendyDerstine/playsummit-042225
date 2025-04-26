@@ -1,0 +1,13 @@
+﻿---
+ID: "3f8160d8-c6cb-4728-83d6-631b2c6940b2"
+Parent: "d1373b0c-90c8-49e8-b203-2c1b2d254351"
+Template: "c237d144-647a-4afe-aa7b-1570f3e3f139"
+Path: "/sitecore/content/frb/frb-boston/Data/Link Lists"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "054d92d8-e197-4319-8756-042fccdffe2f"

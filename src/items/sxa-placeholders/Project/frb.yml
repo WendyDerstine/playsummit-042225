@@ -1,0 +1,13 @@
+﻿---
+ID: "cfdbba82-c11e-456f-93c2-d7843510f0fc"
+Parent: "f5f0fbe3-61ad-4967-a5d8-8d760331d6a1"
+Template: "3d281bf8-5336-4686-9dd6-ab4ab5b3fd5d"
+Path: /sitecore/layout/Placeholder Settings/Project/frb
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "55f6c713-5766-4871-b931-5ad68cb87ab7"

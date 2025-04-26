@@ -1,0 +1,18 @@
+﻿---
+ID: "f280ee5f-6d85-435e-9bad-cf6b2dba0187"
+Parent: "f33a201a-0729-444e-a461-3279922f53e7"
+Template: "4d50cdae-c2d9-4de8-b080-8f992bfb1b55"
+Path: "/sitecore/content/frb/frb-boston/Presentation/Headless Variants/Image/Default"
+BranchID: "ae87ba03-4197-4107-82d5-f8b1cafe3bff"
+SharedFields:
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{715BA68D-500D-4C0C-A611-8AD2B3478B21}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "6692986f-7a86-4068-a1f3-c69e2900e9f5"

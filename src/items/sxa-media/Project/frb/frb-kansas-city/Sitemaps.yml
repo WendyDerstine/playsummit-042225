@@ -1,0 +1,13 @@
+﻿---
+ID: "9d21925f-705d-4ad9-abb9-186dc75add5e"
+Parent: "f66e2e52-6620-4f59-b288-f03c1789d101"
+Template: "fe5dd826-48c6-436d-b87a-7c4210c7413b"
+Path: "/sitecore/media library/Project/frb/frb-kansas-city/Sitemaps"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "43f60808-3c69-495e-83d6-1465d054b214"

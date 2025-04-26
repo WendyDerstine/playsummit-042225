@@ -1,0 +1,26 @@
+﻿---
+ID: "f88974c9-96a9-4a1f-94d4-d93747b7c1f0"
+Parent: "bd81423f-5718-49bf-b285-bbcd61b0a33f"
+Template: "e8e8c94f-4248-43c3-a79f-99fbb49d78e6"
+Path: "/sitecore/content/frb/frb-new-york/Media"
+BranchID: "45cf9f42-b3ac-4412-aab9-f8441c7e448e"
+SharedFields:
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: "aaaadda4-007c-4b13-bca5-d529938cf6ce"
+- ID: "de8257d9-43aa-4eff-a2f4-2e9fbbd20e79"
+  Hint: AdditionalChildren
+  Value: |
+    {57B74132-1843-4C82-B138-34DA315A781E}
+    {FC2A3FCB-F445-4CB0-AAD7-5AFAC93673C0}
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{A7F39EA2-9018-4622-891D-CB65627E5AF2}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "1fca2293-41bd-47a6-816a-91f3f45388b2"

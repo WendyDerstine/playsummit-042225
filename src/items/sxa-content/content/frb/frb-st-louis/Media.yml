@@ -1,0 +1,26 @@
+﻿---
+ID: "3f130bd7-3d43-4116-89a2-1228cadf54cb"
+Parent: "44785018-8e7e-49e3-a506-a818b32858c5"
+Template: "e8e8c94f-4248-43c3-a79f-99fbb49d78e6"
+Path: "/sitecore/content/frb/frb-st-louis/Media"
+BranchID: "45cf9f42-b3ac-4412-aab9-f8441c7e448e"
+SharedFields:
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: "a1399346-1d16-4ea3-8b89-05c237da003c"
+- ID: "de8257d9-43aa-4eff-a2f4-2e9fbbd20e79"
+  Hint: AdditionalChildren
+  Value: |
+    {75BCDDCF-DAFB-450E-9606-161B43D364BF}
+    {FC2A3FCB-F445-4CB0-AAD7-5AFAC93673C0}
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{A7F39EA2-9018-4622-891D-CB65627E5AF2}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "c7dc8f02-e118-466d-9188-71af6d08a038"

@@ -1,0 +1,13 @@
+﻿---
+ID: "430e35f0-756e-4956-a755-8cc90622d8ae"
+Parent: "5b842f97-3622-40ce-bee0-6f4275596784"
+Template: "b762d567-87f5-493c-bb48-0c455d834457"
+Path: "/sitecore/content/frb/frb-philadelphia/Data/Texts"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "421e357e-745c-4d7c-b393-cbb28cc75bfd"

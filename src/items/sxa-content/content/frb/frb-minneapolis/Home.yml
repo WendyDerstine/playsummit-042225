@@ -1,0 +1,24 @@
+﻿---
+ID: "023f994a-7d92-4e19-a209-627687238a16"
+Parent: "7fee2df1-c9d4-4818-9442-2593a791c531"
+Template: "2c3677b9-9a87-4d55-b5f2-a5c6d32e9b59"
+Path: "/sitecore/content/frb/frb-minneapolis/Home"
+BranchID: "45cf9f42-b3ac-4412-aab9-f8441c7e448e"
+SharedFields:
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{F558BEC9-C602-4D7A-B9A1-D0411C946EA4}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: "frb-minneapolis"
+    - ID: "73850927-da5a-4410-a59f-6e0ec76cce98"
+      Hint: Title
+      Value: "frb-minneapolis"
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "14b6a171-0c76-4875-a15d-901de5bec358"

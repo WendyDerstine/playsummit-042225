@@ -1,0 +1,27 @@
+﻿---
+ID: "91847996-0034-4a5a-96e7-8612be07db10"
+Parent: "0c28eef8-464d-46fc-a29f-3689eb224379"
+Template: "c6dc7393-15bb-4cd7-b798-ab63e77ebac4"
+Path: "/sitecore/content/frb/frb-atlanta/Presentation/Styles/Content alignment"
+BranchID: "75653e9d-3c5c-45d4-823d-1bb04474400b"
+SharedFields:
+- ID: "62ca1c9e-71a4-465f-835e-55bda7bb270b"
+  Hint: Type
+  Value: "icon-button-group-radio"
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 275
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: "72e7c346-13c3-49ab-b8b4-908dd8217751"
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{020F4D85-ABD4-4C0E-B987-DDB72873E78D}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "0247c20e-16e8-424f-90ba-a377a81cd30a"

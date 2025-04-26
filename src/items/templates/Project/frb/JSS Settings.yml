@@ -1,0 +1,32 @@
+﻿---
+ID: "e827ae20-7996-4821-90ee-85e7b928a6de"
+Parent: "57e75dcc-345f-44e8-b2e8-ca41caa67669"
+Template: "ab86861a-6030-46c5-b394-e8f99e8b87db"
+Path: /sitecore/templates/Project/frb/JSS Settings
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: Office/32x32/gearwheels.png
+- ID: "12c33f3f-86c5-43a5-aeb4-5598cec45116"
+  Hint: __Base template
+  Value: |
+    {EC848505-D30C-4BDC-A0AA-7CC9D320085E}
+    {CBC14160-BED0-4AA2-9387-4C13179205B9}
+    {A7228B46-610D-4A17-9F61-649F3A30AAAE}
+    {6175F4C7-F87F-4F7F-928E-4C5CA5DFFAF4}
+    {2AF2DC09-057F-48C2-A9F4-9779ADF83659}
+    {30869218-C3AD-40F9-BCFF-6837127ECD8F}
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: "d265e977-457c-4d03-a215-3a142b91104b"
+- ID: "f7d48a55-2158-4f02-9356-756654404f73"
+  Hint: __Standard values
+  Value: "{C3C65EEA-26B4-4B60-8E15-EA55A4028679}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "b35c3dfd-acf7-4140-bc1b-fc92d36adb4b"

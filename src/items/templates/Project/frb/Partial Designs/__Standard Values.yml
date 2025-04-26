@@ -1,0 +1,22 @@
+﻿---
+ID: "3b116e39-30ab-4845-a3f1-780899ee0fd3"
+Parent: "68a94fac-3f27-46c5-8361-5c1ad1dd7869"
+Template: "68a94fac-3f27-46c5-8361-5c1ad1dd7869"
+Path: /sitecore/templates/Project/frb/Partial Designs/__Standard Values
+SharedFields:
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Value: |
+    {36065B82-0418-44DD-8EBE-09F3A6A6B936}
+    {FD2059FD-6043-4DFE-8C04-E2437CE87634}
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: "3b0a3293-393a-4d9e-abe3-f564977aec13"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "3ca5fe57-1ea3-4725-abb2-59299542e090"

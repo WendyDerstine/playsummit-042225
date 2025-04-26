@@ -1,0 +1,13 @@
+﻿---
+ID: "52046c4b-4d38-4d99-8fff-563429649678"
+Parent: "d5702864-1ec4-4e3d-8828-0b127664ae16"
+Template: "c237d144-647a-4afe-aa7b-1570f3e3f139"
+Path: "/sitecore/content/frb/frb-new-york/Data/Link Lists"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "b2844c09-f144-45ae-b46a-4e6f26245d96"

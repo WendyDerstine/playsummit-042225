@@ -1,0 +1,18 @@
+﻿---
+ID: "8a35dc45-89c8-45d9-82ba-3471ae5c2d7b"
+Parent: "6b7397ad-f30b-48b2-b8e5-ec0e4ec36ef2"
+Template: "4d50cdae-c2d9-4de8-b080-8f992bfb1b55"
+Path: "/sitecore/content/frb/frb-new-york/Presentation/Headless Variants/Navigation/Default"
+BranchID: "70519928-c595-4b2b-bb35-75022feecc4c"
+SharedFields:
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{25F1A8E5-EB4C-4202-A9F7-A97DB52DA9AF}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "4c3debb2-f3e2-4a8b-949c-b9a6dff94df9"

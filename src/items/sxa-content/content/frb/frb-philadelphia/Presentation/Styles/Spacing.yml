@@ -1,0 +1,27 @@
+﻿---
+ID: "72d6b9de-d2ae-4cf4-8696-b9b6b5449207"
+Parent: "c8845782-11c3-4e63-9ced-d439d0cb28ce"
+Template: "c6dc7393-15bb-4cd7-b798-ab63e77ebac4"
+Path: "/sitecore/content/frb/frb-philadelphia/Presentation/Styles/Spacing"
+BranchID: "75653e9d-3c5c-45d4-823d-1bb04474400b"
+SharedFields:
+- ID: "62ca1c9e-71a4-465f-835e-55bda7bb270b"
+  Hint: Type
+  Value: "icon-button-group-check"
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 100
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: "c0063544-68f8-4b97-8874-7ba8412ae5a4"
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{C96262B8-A0E8-4546-A17E-825F07B2B653}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "5443c8e0-0e6b-4bb8-af6f-2e77b3b35d48"
