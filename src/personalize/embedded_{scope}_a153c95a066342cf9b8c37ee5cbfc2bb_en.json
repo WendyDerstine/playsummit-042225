@@ -3,9 +3,9 @@
   "href": "https://api-us.boxever.com/v3/flowDefinitions/58b91141-ffb8-41e0-a09b-af49348afaa3",
   "ref": "58b91141-ffb8-41e0-a09b-af49348afaa3",
   "name": "embedded_{scope}_a153c95a066342cf9b8c37ee5cbfc2bb_en",
-  "modifiedByRef": "auth0|6387c3e21179b065497e9605",
-  "modifiedAt": "2025-04-24T19:43:01.141Z",
-  "revision": 6,
+  "modifiedByRef": "UsQ4dFnLMklHuDXU8acKstHeXEC65tgU@clients",
+  "modifiedAt": "2025-05-12T14:18:37.055Z",
+  "revision": 8,
   "archived": false,
   "friendlyId": "embedded_{scope}_a153c95a066342cf9b8c37ee5cbfc2bb_en",
   "type": "INTERACTIVE_API_FLOW",
@@ -21,7 +21,7 @@
   "traffic": {
     "type": "audienceTraffic",
     "weightingAlgorithm": "USER_DEFINED",
-    "modifiedAt": "2025-04-24T19:43:01.279Z",
+    "modifiedAt": "2025-05-12T14:18:37.105Z",
     "splits": [
       {
         "template": "{\"variantId\": \"f0486df058c74f31ac92204075a7d4aa\"}",
@@ -86,7 +86,7 @@
   "variants": [],
   "transpiledVariants": [
     {
-      "ref": "ca378027-390c-4e17-9ec7-c253f20c8a5d",
+      "ref": "8a2fd141-5c2e-429b-9d00-861df449e144",
       "name": "June Promo",
       "tasks": [
         {
